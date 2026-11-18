@@ -1,0 +1,13 @@
+sample_id,group,age,il6,tnf,ifng
+S01,control,34,12.1,8.4,15.2
+S02,control,29,10.8,7.9,14.1
+S03,control,41,13.5,9.1,
+S04,control,38,11.2,8.0,15.9
+S05,control,33,12.7,8.8,14.8
+S06,control,45,11.9,7.5,16.3
+S07,treated,36,25.4,18.2,30.1
+S08,treated,31,28.9,20.5,33.4
+S09,treated,40,24.1,17.7,29.8
+S10,treated,35,27.3,19.9,32.2
+S11,treated,43,26.0,18.8,31.5
+S12,treated,39,29.4,21.1,34.0
